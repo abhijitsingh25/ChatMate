@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ChatMate</string>
+
+    <!-- Authentication -->
+    <string name="welcome_to_chatmate">Welcome to ChatMate</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_name_hint">Your name</string>
+    <string name="start_chatting">Start Chatting</string>
+    <string name="name_cannot_be_empty">Name cannot be empty</string>
+
+    <!-- Chat List -->
+    <string name="chats">Chats</string>
+    <string name="no_chats_yet">No chats yet</string>
+    <string name="start_new_chat">Start a new chat</string>
+    <string name="search_chats">Search chats</string>
+
+    <!-- Chat Screen -->
+    <string name="type_message">Type a message...</string>
+    <string name="send">Send</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    <string name="last_seen">Last seen %1$s</string>
+    <string name="typing">typing...</string>
+
+    <!-- Message Status -->
+    <string name="message_sent">Sent</string>
+    <string name="message_delivered">Delivered</string>
+    <string name="message_read">Read</string>
+
+    <!-- Error Messages -->
+    <string name="error_loading_messages">Error loading messages</string>
+    <string name="error_sending_message">Failed to send message</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="retry">Retry</string>
+
+    <!-- Time formats -->
+    <string name="time_now">now</string>
+    <string name="time_minutes_ago">%1$d min ago</string>
+    <string name="time_hours_ago">%1$d hr ago</string>
+    <string name="time_yesterday">yesterday</string>
+
+</resources>
