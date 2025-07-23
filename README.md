@@ -12,7 +12,6 @@ A modern real-time chat application built with Kotlin and Jetpack Compose.
 - **Firebase** - Backend services for real-time messaging
   - Firebase Authentication
   - Firebase Firestore
-  - Firebase Cloud Messaging (FCM)
 
 ## Features
 
